@@ -8,12 +8,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Computer+science+student+from+Russia" alt="Typing SVG" />
     </a>
   </p>
-  <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+  <div align="center" justify-content: center; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=wxqryy&theme=radical&show_icons=true" alt="GitHub Stats" style="width: 49%; height: 200px; object-fit: contain;"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxqryy&theme=radical&layout=compact" alt="Top Languages" style="width: 49%; height: 210px; object-fit: contain;"/>
     </a>
   </div>
   <p align="center">
