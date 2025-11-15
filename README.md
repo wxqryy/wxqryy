@@ -5,7 +5,7 @@
   </h1>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Computer+science+student+from+Russia" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Computer+science+student" alt="Typing SVG" />
     </a>
   </p>
   <div align="center" justify-content: center; align-items: center;">
