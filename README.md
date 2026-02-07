@@ -5,14 +5,9 @@
   </h1>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=школьник😝" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=skolnik" alt="Typing SVG" />
     </a>
   </p>
-  <div align="center" justify-content: center; align-items: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=wxqryy&theme=radical&show_icons=true" alt="GitHub Stats" style="width: 49%; height: 200px; object-fit: contain;"/>
-    </a>
-  </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=____________________________________________________________________________________________________" alt="Typing SVG" />
